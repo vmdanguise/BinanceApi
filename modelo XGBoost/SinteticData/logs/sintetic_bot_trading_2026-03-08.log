@@ -1,0 +1,11 @@
+[2026-03-08 00:00:00] [SISTEMA] Reset diario: contador de trades a 0.
+[2026-03-08 02:00:00] [SENAL COMPRA] BTC/USDT | RSI=25.8 (umbral 30) | volatilidad 7d=5.46% | TP=4.37% | precio=$66925.44 | invirtiendo $5.00
+[2026-03-08 02:00:00] [COMPRA MAKER OK] BTC/USDT | 0.000075 unidades a $66925.44 ($5.00)
+[2026-03-08 02:00:00] [COMPRA OK] BTC/USDT | 0.000075 unidades ($5.00) | SL=$63579.17 TP=$69847.65 | Fee: $0.0050 (0.075% maker simulado) | balance $-3.35
+[2026-03-08 05:00:00] [TRAILING] BTC/USDT: SL elevado a $66814.18 (precio $67149.93).
+[2026-03-08 06:00:00] [TRAILING] BTC/USDT: SL elevado a $66825.71 (precio $67161.52).
+[2026-03-08 06:00:00] [VENTA-TIMEOUT_60MIN] BTC/USDT: 240min, ganancia 0.35% (min 0.35%) < TP 4.37%. Vendiendo.
+[2026-03-08 06:00:00] [BALANCE] BTC/USDT: PnL +0.01  balance $-3.34
+[2026-03-08 23:00:00] [SENAL COMPRA] BTC/USDT | RSI=27.6 (umbral 30) | volatilidad 7d=5.41% | TP=4.33% | precio=$65971.20 | invirtiendo $5.00
+[2026-03-08 23:00:00] [COMPRA MAKER OK] BTC/USDT | 0.000076 unidades a $65971.20 ($5.00)
+[2026-03-08 23:00:00] [COMPRA OK] BTC/USDT | 0.000076 unidades ($5.00) | SL=$62672.64 TP=$68827.99 | Fee: $0.0050 (0.075% maker simulado) | balance $-3.34

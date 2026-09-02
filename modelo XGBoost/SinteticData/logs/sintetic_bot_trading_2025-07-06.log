@@ -1,0 +1,7 @@
+[2025-07-06 00:00:00] [SISTEMA] Reset diario: contador de trades a 0.
+[2025-07-06 21:00:00] [TRAILING] BTC/USDT: SL elevado a $108662.21 (precio $109208.25).
+[2025-07-06 21:00:00] [VENTA-TIMEOUT_60MIN] BTC/USDT: 3720min, ganancia 0.47% (min 0.35%) < TP 1.21%. Vendiendo.
+[2025-07-06 21:00:00] [BALANCE] BTC/USDT: PnL +0.02  balance $0.02
+[2025-07-06 21:00:00] [TRAILING] ETH/USDT: SL elevado a $2574.75 (precio $2587.69).
+[2025-07-06 21:00:00] [VENTA-TIMEOUT_60MIN] ETH/USDT: 3960min, ganancia 0.38% (min 0.35%) < TP 3.26%. Vendiendo.
+[2025-07-06 21:00:00] [BALANCE] ETH/USDT: PnL +0.01  balance $0.03

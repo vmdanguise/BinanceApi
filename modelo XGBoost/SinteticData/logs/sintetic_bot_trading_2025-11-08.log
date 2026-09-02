@@ -1,0 +1,18 @@
+[2025-11-08 00:00:00] [SISTEMA] Reset diario: contador de trades a 0.
+[2025-11-08 10:00:00] [SENAL COMPRA] BTC/USDT | RSI=25.5 (umbral 30) | volatilidad 7d=3.90% | TP=3.12% | precio=$102480.04 | invirtiendo $5.00
+[2025-11-08 10:00:00] [COMPRA MAKER OK] BTC/USDT | 0.000049 unidades a $102480.04 ($5.00)
+[2025-11-08 10:00:00] [COMPRA OK] BTC/USDT | 0.000049 unidades ($5.00) | SL=$98485.69 TP=$105675.52 | Fee: $0.0050 (0.075% maker simulado) | balance $-1.38
+[2025-11-08 11:00:00] [SENAL COMPRA] ETH/USDT | RSI=34.8 (umbral 40) | volatilidad 7d=7.73% | TP=5.00% | precio=$3413.03 | invirtiendo $5.00
+[2025-11-08 11:00:00] [COMPRA MAKER OK] ETH/USDT | 0.001465 unidades a $3413.03 ($5.00)
+[2025-11-08 11:00:00] [COMPRA OK] ETH/USDT | 0.001465 unidades ($5.00) | SL=$3242.38 TP=$3583.68 | Fee: $0.0050 (0.075% maker simulado) | balance $-1.38
+[2025-11-08 13:00:00] [VENTA-SMA200] ETH/USDT: precio $3396.83 < SMA200 $3583.85. Vendiendo (anticuchillo).
+[2025-11-08 13:00:00] [BALANCE] ETH/USDT: PnL -0.03  balance $-1.41
+[2025-11-08 17:00:00] [SENAL COMPRA] ETH/USDT | RSI=35.7 (umbral 40) | volatilidad 7d=7.35% | TP=5.00% | precio=$3399.29 | invirtiendo $5.00
+[2025-11-08 17:00:00] [COMPRA MAKER OK] ETH/USDT | 0.001471 unidades a $3399.29 ($5.00)
+[2025-11-08 17:00:00] [COMPRA OK] ETH/USDT | 0.001471 unidades ($5.00) | SL=$3229.33 TP=$3569.25 | Fee: $0.0050 (0.075% maker simulado) | balance $-1.41
+[2025-11-08 19:00:00] [VENTA-SMA200] ETH/USDT: precio $3389.35 < SMA200 $3570.18. Vendiendo (anticuchillo).
+[2025-11-08 19:00:00] [BALANCE] ETH/USDT: PnL -0.02  balance $-1.43
+[2025-11-08 20:00:00] [SENAL COMPRA] ETH/USDT | RSI=36.1 (umbral 40) | volatilidad 7d=8.84% | TP=5.00% | precio=$3397.94 | invirtiendo $5.00
+[2025-11-08 20:00:00] [COMPRA MAKER OK] ETH/USDT | 0.001471 unidades a $3397.94 ($5.00)
+[2025-11-08 20:00:00] [COMPRA OK] ETH/USDT | 0.001471 unidades ($5.00) | SL=$3228.04 TP=$3567.84 | Fee: $0.0050 (0.075% maker simulado) | balance $-1.43
+[2025-11-08 22:00:00] [TRAILING] ETH/USDT: SL elevado a $3392.45 (precio $3409.50).

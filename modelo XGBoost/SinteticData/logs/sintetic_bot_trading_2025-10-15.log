@@ -1,0 +1,7 @@
+[2025-10-15 00:00:00] [SISTEMA] Reset diario: contador de trades a 0.
+[2025-10-15 12:00:00] [SENAL COMPRA] BTC/USDT | RSI=28.5 (umbral 30) | volatilidad 7d=5.97% | TP=4.77% | precio=$111711.25 | invirtiendo $5.00
+[2025-10-15 12:00:00] [COMPRA MAKER OK] BTC/USDT | 0.000045 unidades a $111711.25 ($5.00)
+[2025-10-15 12:00:00] [COMPRA OK] BTC/USDT | 0.000045 unidades ($5.00) | SL=$106125.69 TP=$117042.21 | Fee: $0.0050 (0.075% maker simulado) | balance $-0.98
+[2025-10-15 13:00:00] [SENAL COMPRA] ETH/USDT | RSI=38.1 (umbral 40) | volatilidad 7d=10.06% | TP=5.00% | precio=$4055.23 | invirtiendo $5.00
+[2025-10-15 13:00:00] [COMPRA MAKER OK] ETH/USDT | 0.001233 unidades a $4055.23 ($5.00)
+[2025-10-15 13:00:00] [COMPRA OK] ETH/USDT | 0.001233 unidades ($5.00) | SL=$3852.47 TP=$4257.99 | Fee: $0.0050 (0.075% maker simulado) | balance $-0.98

@@ -1,0 +1,16 @@
+[2025-12-11 00:00:00] [SISTEMA] Reset diario: contador de trades a 0.
+[2025-12-11 01:00:00] [SENAL COMPRA] ETH/USDT | RSI=37.4 (umbral 40) | volatilidad 7d=6.02% | TP=4.82% | precio=$3254.89 | invirtiendo $5.00
+[2025-12-11 01:00:00] [COMPRA MAKER OK] ETH/USDT | 0.001536 unidades a $3254.89 ($5.00)
+[2025-12-11 01:00:00] [COMPRA OK] ETH/USDT | 0.001536 unidades ($5.00) | SL=$3092.15 TP=$3411.70 | Fee: $0.0050 (0.075% maker simulado) | balance $-1.47
+[2025-12-11 02:00:00] [SENAL COMPRA] BTC/USDT | RSI=29.6 (umbral 30) | volatilidad 7d=4.10% | TP=3.28% | precio=$90074.00 | invirtiendo $5.00
+[2025-12-11 02:00:00] [COMPRA MAKER OK] BTC/USDT | 0.000056 unidades a $90074.00 ($5.00)
+[2025-12-11 02:00:00] [COMPRA OK] BTC/USDT | 0.000056 unidades ($5.00) | SL=$86381.61 TP=$93027.91 | Fee: $0.0050 (0.075% maker simulado) | balance $-1.47
+[2025-12-11 04:00:00] [TRAILING] BTC/USDT: SL elevado a $89984.37 (precio $90436.55).
+[2025-12-11 04:00:00] [VENTA-TIMEOUT_60MIN] BTC/USDT: 120min, ganancia 0.40% (min 0.35%) < TP 3.28%. Vendiendo.
+[2025-12-11 04:00:00] [BALANCE] BTC/USDT: PnL +0.02  balance $-1.46
+[2025-12-11 07:00:00] [SENAL COMPRA] BTC/USDT | RSI=27.2 (umbral 30) | volatilidad 7d=4.01% | TP=3.21% | precio=$90272.75 | invirtiendo $5.00
+[2025-12-11 07:00:00] [COMPRA MAKER OK] BTC/USDT | 0.000055 unidades a $90272.75 ($5.00)
+[2025-12-11 07:00:00] [COMPRA OK] BTC/USDT | 0.000055 unidades ($5.00) | SL=$86652.93 TP=$93168.61 | Fee: $0.0050 (0.075% maker simulado) | balance $-1.46
+[2025-12-11 18:00:00] [TRAILING] BTC/USDT: SL elevado a $90256.95 (precio $90710.50).
+[2025-12-11 18:00:00] [VENTA-TIMEOUT_60MIN] BTC/USDT: 660min, ganancia 0.48% (min 0.35%) < TP 3.21%. Vendiendo.
+[2025-12-11 18:00:00] [BALANCE] BTC/USDT: PnL +0.02  balance $-1.44

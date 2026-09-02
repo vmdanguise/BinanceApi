@@ -1,0 +1,5 @@
+[2026-06-02 00:00:00] [SISTEMA] Reset diario: contador de trades a 0.
+[2026-06-02 01:00:00] [VENTA-SMA200] BTC/USDT: precio $70652.47 < SMA200 $74582.75. Vendiendo (anticuchillo).
+[2026-06-02 01:00:00] [BALANCE] BTC/USDT: PnL -0.13  balance $-5.12
+[2026-06-02 14:00:00] [VENTA-STOP_LOSS] ETH/USDT: precio $1941.36 <= SL $1948.38. Vendiendo.
+[2026-06-02 14:00:00] [BALANCE] ETH/USDT: PnL -0.18  balance $-5.30

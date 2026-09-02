@@ -1,0 +1,7 @@
+[2026-02-16 00:00:00] [SISTEMA] Reset diario: contador de trades a 0.
+[2026-02-16 08:00:00] [TRAILING] ETH/USDT: SL elevado a $1967.42 (precio $1977.31).
+[2026-02-16 08:00:00] [VENTA-TIMEOUT_60MIN] ETH/USDT: 600min, ganancia 0.36% (min 0.35%) < TP 5.00%. Vendiendo.
+[2026-02-16 08:00:00] [BALANCE] ETH/USDT: PnL +0.01  balance $-2.88
+[2026-02-16 12:00:00] [TRAILING] BTC/USDT: SL elevado a $69414.42 (precio $69763.24).
+[2026-02-16 12:00:00] [VENTA-TIMEOUT_60MIN] BTC/USDT: 780min, ganancia 1.35% (min 0.35%) < TP 3.61%. Vendiendo.
+[2026-02-16 12:00:00] [BALANCE] BTC/USDT: PnL +0.06  balance $-2.82

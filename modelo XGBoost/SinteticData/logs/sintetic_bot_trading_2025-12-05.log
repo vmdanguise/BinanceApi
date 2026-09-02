@@ -1,0 +1,16 @@
+[2025-12-05 00:00:00] [SISTEMA] Reset diario: contador de trades a 0.
+[2025-12-05 02:00:00] [TRAILING] ETH/USDT: SL elevado a $3167.30 (precio $3183.22).
+[2025-12-05 02:00:00] [VENTA-TIMEOUT_60MIN] ETH/USDT: 600min, ganancia 0.45% (min 0.35%) < TP 4.91%. Vendiendo.
+[2025-12-05 02:00:00] [BALANCE] ETH/USDT: PnL +0.02  balance $-1.29
+[2025-12-05 05:00:00] [SENAL COMPRA] ETH/USDT | RSI=39.0 (umbral 40) | volatilidad 7d=6.03% | TP=4.82% | precio=$3155.96 | invirtiendo $5.00
+[2025-12-05 05:00:00] [COMPRA MAKER OK] ETH/USDT | 0.001584 unidades a $3155.96 ($5.00)
+[2025-12-05 05:00:00] [COMPRA OK] ETH/USDT | 0.001584 unidades ($5.00) | SL=$2998.16 TP=$3308.16 | Fee: $0.0050 (0.075% maker simulado) | balance $-1.29
+[2025-12-05 06:00:00] [TRAILING] ETH/USDT: SL elevado a $3153.22 (precio $3169.07).
+[2025-12-05 06:00:00] [VENTA-TIMEOUT_60MIN] ETH/USDT: 60min, ganancia 0.42% (min 0.35%) < TP 4.82%. Vendiendo.
+[2025-12-05 06:00:00] [BALANCE] ETH/USDT: PnL +0.02  balance $-1.27
+[2025-12-05 13:00:00] [SENAL COMPRA] BTC/USDT | RSI=27.7 (umbral 30) | volatilidad 7d=4.54% | TP=3.63% | precio=$90465.14 | invirtiendo $5.00
+[2025-12-05 13:00:00] [COMPRA MAKER OK] BTC/USDT | 0.000055 unidades a $90465.14 ($5.00)
+[2025-12-05 13:00:00] [COMPRA OK] BTC/USDT | 0.000055 unidades ($5.00) | SL=$86356.25 TP=$93752.25 | Fee: $0.0050 (0.075% maker simulado) | balance $-1.27
+[2025-12-05 14:00:00] [SENAL COMPRA] ETH/USDT | RSI=38.5 (umbral 40) | volatilidad 7d=6.11% | TP=4.89% | precio=$3103.51 | invirtiendo $5.00
+[2025-12-05 14:00:00] [COMPRA MAKER OK] ETH/USDT | 0.001611 unidades a $3103.51 ($5.00)
+[2025-12-05 14:00:00] [COMPRA OK] ETH/USDT | 0.001611 unidades ($5.00) | SL=$2948.33 TP=$3255.21 | Fee: $0.0050 (0.075% maker simulado) | balance $-1.27

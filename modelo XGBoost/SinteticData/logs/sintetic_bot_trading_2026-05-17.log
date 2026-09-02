@@ -1,0 +1,3 @@
+[2026-05-17 00:00:00] [SISTEMA] Reset diario: contador de trades a 0.
+[2026-05-17 01:00:00] [VENTA-SMA200] ETH/USDT: precio $2169.18 < SMA200 $2284.38. Vendiendo (anticuchillo).
+[2026-05-17 01:00:00] [BALANCE] ETH/USDT: PnL -0.03  balance $-4.39

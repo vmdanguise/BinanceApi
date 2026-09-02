@@ -1,0 +1,20 @@
+[2025-07-28 00:00:00] [SISTEMA] Reset diario: contador de trades a 0.
+[2025-07-28 14:00:00] [SENAL COMPRA] ETH/USDT | RSI=34.8 (umbral 40) | volatilidad 7d=5.30% | TP=4.24% | precio=$3785.04 | invirtiendo $5.00
+[2025-07-28 14:00:00] [COMPRA MAKER OK] ETH/USDT | 0.001321 unidades a $3785.04 ($5.00)
+[2025-07-28 14:00:00] [COMPRA OK] ETH/USDT | 0.001321 unidades ($5.00) | SL=$3595.79 TP=$3945.66 | Fee: $0.0050 (0.075% maker simulado) | balance $-0.00
+[2025-07-28 15:00:00] [TRAILING] ETH/USDT: SL elevado a $3789.07 (precio $3808.11).
+[2025-07-28 15:00:00] [VENTA-TIMEOUT_60MIN] ETH/USDT: 60min, ganancia 0.61% (min 0.35%) < TP 4.24%. Vendiendo.
+[2025-07-28 15:00:00] [BALANCE] ETH/USDT: PnL +0.03  balance $0.02
+[2025-07-28 16:00:00] [SENAL COMPRA] ETH/USDT | RSI=32.8 (umbral 40) | volatilidad 7d=5.15% | TP=4.12% | precio=$3806.51 | invirtiendo $5.00
+[2025-07-28 16:00:00] [COMPRA MAKER OK] ETH/USDT | 0.001314 unidades a $3806.51 ($5.00)
+[2025-07-28 16:00:00] [COMPRA OK] ETH/USDT | 0.001314 unidades ($5.00) | SL=$3616.18 TP=$3963.28 | Fee: $0.0050 (0.075% maker simulado) | balance $+0.02
+[2025-07-28 17:00:00] [SENAL COMPRA] BTC/USDT | RSI=24.0 (umbral 30) | volatilidad 7d=2.39% | TP=1.91% | precio=$117667.86 | invirtiendo $5.00
+[2025-07-28 17:00:00] [COMPRA MAKER OK] BTC/USDT | 0.000042 unidades a $117667.86 ($5.00)
+[2025-07-28 17:00:00] [COMPRA OK] BTC/USDT | 0.000042 unidades ($5.00) | SL=$114858.56 TP=$119915.30 | Fee: $0.0050 (0.075% maker simulado) | balance $+0.02
+[2025-07-28 19:00:00] [TRAILING] BTC/USDT: SL elevado a $117478.39 (precio $118068.73).
+[2025-07-28 21:00:00] [TRAILING] BTC/USDT: SL elevado a $117516.37 (precio $118106.90).
+[2025-07-28 21:00:00] [VENTA-TIMEOUT_60MIN] BTC/USDT: 240min, ganancia 0.37% (min 0.35%) < TP 1.91%. Vendiendo.
+[2025-07-28 21:00:00] [BALANCE] BTC/USDT: PnL +0.01  balance $0.04
+[2025-07-28 22:00:00] [SENAL COMPRA] BTC/USDT | RSI=27.3 (umbral 30) | volatilidad 7d=2.27% | TP=1.82% | precio=$117854.35 | invirtiendo $5.00
+[2025-07-28 22:00:00] [COMPRA MAKER OK] BTC/USDT | 0.000042 unidades a $117854.35 ($5.00)
+[2025-07-28 22:00:00] [COMPRA OK] BTC/USDT | 0.000042 unidades ($5.00) | SL=$115174.65 TP=$119998.11 | Fee: $0.0050 (0.075% maker simulado) | balance $+0.04

@@ -1,0 +1,19 @@
+[2025-08-14 00:00:00] [SISTEMA] Reset diario: contador de trades a 0.
+[2025-08-14 12:00:00] [SENAL COMPRA] ETH/USDT | RSI=32.8 (umbral 40) | volatilidad 7d=6.27% | TP=5.00% | precio=$4567.33 | invirtiendo $5.00
+[2025-08-14 12:00:00] [COMPRA MAKER OK] ETH/USDT | 0.001095 unidades a $4567.33 ($5.00)
+[2025-08-14 12:00:00] [COMPRA OK] ETH/USDT | 0.001095 unidades ($5.00) | SL=$4338.96 TP=$4795.70 | Fee: $0.0050 (0.075% maker simulado) | balance $+0.18
+[2025-08-14 13:00:00] [TRAILING] ETH/USDT: SL elevado a $4589.64 (precio $4612.70).
+[2025-08-14 13:00:00] [VENTA-TIMEOUT_60MIN] ETH/USDT: 60min, ganancia 0.99% (min 0.35%) < TP 5.00%. Vendiendo.
+[2025-08-14 13:00:00] [BALANCE] ETH/USDT: PnL +0.04  balance $0.23
+[2025-08-14 13:00:00] [SENAL COMPRA] ETH/USDT | RSI=36.8 (umbral 40) | volatilidad 7d=6.43% | TP=5.00% | precio=$4612.70 | invirtiendo $5.00
+[2025-08-14 13:00:00] [COMPRA MAKER OK] ETH/USDT | 0.001084 unidades a $4612.70 ($5.00)
+[2025-08-14 13:00:00] [COMPRA OK] ETH/USDT | 0.001084 unidades ($5.00) | SL=$4382.06 TP=$4843.34 | Fee: $0.0050 (0.075% maker simulado) | balance $+0.23
+[2025-08-14 14:00:00] [TRAILING] ETH/USDT: SL elevado a $4647.23 (precio $4670.58).
+[2025-08-14 14:00:00] [VENTA-TIMEOUT_60MIN] ETH/USDT: 60min, ganancia 1.25% (min 0.35%) < TP 5.00%. Vendiendo.
+[2025-08-14 14:00:00] [BALANCE] ETH/USDT: PnL +0.06  balance $0.29
+[2025-08-14 14:00:00] [SENAL COMPRA] BTC/USDT | RSI=11.1 (umbral 30) | volatilidad 7d=2.88% | TP=2.30% | precio=$118799.01 | invirtiendo $5.00
+[2025-08-14 14:00:00] [COMPRA MAKER OK] BTC/USDT | 0.000042 unidades a $118799.01 ($5.00)
+[2025-08-14 14:00:00] [COMPRA OK] BTC/USDT | 0.000042 unidades ($5.00) | SL=$115378.25 TP=$121535.62 | Fee: $0.0050 (0.075% maker simulado) | balance $+0.29
+[2025-08-14 16:00:00] [SENAL COMPRA] ETH/USDT | RSI=33.9 (umbral 40) | volatilidad 7d=6.05% | TP=4.84% | precio=$4546.48 | invirtiendo $5.00
+[2025-08-14 16:00:00] [COMPRA MAKER OK] ETH/USDT | 0.001100 unidades a $4546.48 ($5.00)
+[2025-08-14 16:00:00] [COMPRA OK] ETH/USDT | 0.001100 unidades ($5.00) | SL=$4319.16 TP=$4766.58 | Fee: $0.0050 (0.075% maker simulado) | balance $+0.29

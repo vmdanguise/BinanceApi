@@ -1,0 +1,9 @@
+[2026-02-11 00:00:00] [SISTEMA] Reset diario: contador de trades a 0.
+[2026-02-11 00:00:00] [TRAILING] ETH/USDT: SL elevado a $2015.28 (precio $2025.41).
+[2026-02-11 00:00:00] [VENTA-TIMEOUT_60MIN] ETH/USDT: 300min, ganancia 0.37% (min 0.35%) < TP 5.00%. Vendiendo.
+[2026-02-11 00:00:00] [BALANCE] ETH/USDT: PnL +0.01  balance $-2.70
+[2026-02-11 05:00:00] [SENAL COMPRA] BTC/USDT | RSI=29.4 (umbral 30) | volatilidad 7d=8.25% | TP=5.00% | precio=$67404.28 | invirtiendo $5.00
+[2026-02-11 05:00:00] [COMPRA MAKER OK] BTC/USDT | 0.000074 unidades a $67404.28 ($5.00)
+[2026-02-11 05:00:00] [COMPRA OK] BTC/USDT | 0.000074 unidades ($5.00) | SL=$64034.07 TP=$70774.49 | Fee: $0.0050 (0.075% maker simulado) | balance $-2.70
+[2026-02-11 06:00:00] [VENTA-SMA200] BTC/USDT: precio $66820.32 < SMA200 $70891.49. Vendiendo (anticuchillo).
+[2026-02-11 06:00:00] [BALANCE] BTC/USDT: PnL -0.05  balance $-2.75

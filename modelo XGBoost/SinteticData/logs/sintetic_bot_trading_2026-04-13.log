@@ -1,0 +1,9 @@
+[2026-04-13 00:00:00] [SISTEMA] Reset diario: contador de trades a 0.
+[2026-04-13 14:00:00] [TRAILING] BTC/USDT: SL elevado a $72038.15 (precio $72400.15).
+[2026-04-13 14:00:00] [MOMENTO] BTC/USDT: Timeout 1800min con ganancia 1.08% pero momento alcista. Difiriendo.
+[2026-04-13 14:00:00] [TRAILING] ETH/USDT: SL elevado a $2223.01 (precio $2234.18).
+[2026-04-13 14:00:00] [MOMENTO] ETH/USDT: Timeout 1920min con ganancia 0.82% pero momento alcista. Difiriendo.
+[2026-04-13 15:00:00] [VENTA-STOP_LOSS] BTC/USDT: precio $71866.59 <= SL $72038.15. Vendiendo.
+[2026-04-13 15:00:00] [BALANCE] BTC/USDT: PnL +0.01  balance $-3.90
+[2026-04-13 15:00:00] [VENTA-STOP_LOSS] ETH/USDT: precio $2209.28 <= SL $2223.01. Vendiendo.
+[2026-04-13 15:00:00] [BALANCE] ETH/USDT: PnL -0.02  balance $-3.92

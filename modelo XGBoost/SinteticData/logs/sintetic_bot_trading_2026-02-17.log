@@ -1,0 +1,19 @@
+[2026-02-17 00:00:00] [SISTEMA] Reset diario: contador de trades a 0.
+[2026-02-17 10:00:00] [SENAL COMPRA] ETH/USDT | RSI=36.3 (umbral 40) | volatilidad 7d=5.76% | TP=4.61% | precio=$1966.93 | invirtiendo $5.00
+[2026-02-17 10:00:00] [COMPRA MAKER OK] ETH/USDT | 0.002542 unidades a $1966.93 ($5.00)
+[2026-02-17 10:00:00] [COMPRA OK] ETH/USDT | 0.002542 unidades ($5.00) | SL=$1868.58 TP=$2057.55 | Fee: $0.0050 (0.075% maker simulado) | balance $-2.82
+[2026-02-17 11:00:00] [SENAL COMPRA] BTC/USDT | RSI=28.9 (umbral 30) | volatilidad 7d=4.47% | TP=3.57% | precio=$67854.60 | invirtiendo $5.00
+[2026-02-17 11:00:00] [COMPRA MAKER OK] BTC/USDT | 0.000074 unidades a $67854.60 ($5.00)
+[2026-02-17 11:00:00] [COMPRA OK] BTC/USDT | 0.000074 unidades ($5.00) | SL=$64824.02 TP=$70279.06 | Fee: $0.0050 (0.075% maker simulado) | balance $-2.82
+[2026-02-17 13:00:00] [TRAILING] BTC/USDT: SL elevado a $67795.66 (precio $68136.34).
+[2026-02-17 13:00:00] [VENTA-TIMEOUT_60MIN] BTC/USDT: 120min, ganancia 0.42% (min 0.35%) < TP 3.57%. Vendiendo.
+[2026-02-17 13:00:00] [BALANCE] BTC/USDT: PnL +0.02  balance $-2.80
+[2026-02-17 13:00:00] [TRAILING] ETH/USDT: SL elevado a $1980.58 (precio $1990.53).
+[2026-02-17 13:00:00] [VENTA-TIMEOUT_60MIN] ETH/USDT: 180min, ganancia 1.20% (min 0.35%) < TP 4.61%. Vendiendo.
+[2026-02-17 13:00:00] [BALANCE] ETH/USDT: PnL +0.05  balance $-2.75
+[2026-02-17 14:00:00] [SENAL COMPRA] ETH/USDT | RSI=32.0 (umbral 40) | volatilidad 7d=5.26% | TP=4.21% | precio=$1948.49 | invirtiendo $5.00
+[2026-02-17 14:00:00] [COMPRA MAKER OK] ETH/USDT | 0.002566 unidades a $1948.49 ($5.00)
+[2026-02-17 14:00:00] [COMPRA OK] ETH/USDT | 0.002566 unidades ($5.00) | SL=$1851.07 TP=$2030.47 | Fee: $0.0050 (0.075% maker simulado) | balance $-2.75
+[2026-02-17 15:00:00] [TRAILING] ETH/USDT: SL elevado a $1958.74 (precio $1968.58).
+[2026-02-17 15:00:00] [VENTA-TIMEOUT_60MIN] ETH/USDT: 60min, ganancia 1.03% (min 0.35%) < TP 4.21%. Vendiendo.
+[2026-02-17 15:00:00] [BALANCE] ETH/USDT: PnL +0.05  balance $-2.70

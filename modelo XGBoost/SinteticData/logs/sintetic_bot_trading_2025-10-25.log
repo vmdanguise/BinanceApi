@@ -1,0 +1,3 @@
+[2025-10-25 00:00:00] [SISTEMA] Reset diario: contador de trades a 0.
+[2025-10-25 00:00:00] [VENTA-STOP_LOSS] ETH/USDT: precio $3918.40 <= SL $3923.99. Vendiendo.
+[2025-10-25 00:00:00] [BALANCE] ETH/USDT: PnL -0.02  balance $-1.28

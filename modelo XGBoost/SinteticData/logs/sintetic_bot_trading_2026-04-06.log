@@ -1,0 +1,4 @@
+[2026-04-06 00:00:00] [SISTEMA] Reset diario: contador de trades a 0.
+[2026-04-06 22:00:00] [SENAL COMPRA] ETH/USDT | RSI=37.6 (umbral 40) | volatilidad 7d=4.05% | TP=3.24% | precio=$2105.41 | invirtiendo $5.00
+[2026-04-06 22:00:00] [COMPRA MAKER OK] ETH/USDT | 0.002375 unidades a $2105.41 ($5.00)
+[2026-04-06 22:00:00] [COMPRA OK] ETH/USDT | 0.002375 unidades ($5.00) | SL=$2020.05 TP=$2173.69 | Fee: $0.0050 (0.075% maker simulado) | balance $-4.20

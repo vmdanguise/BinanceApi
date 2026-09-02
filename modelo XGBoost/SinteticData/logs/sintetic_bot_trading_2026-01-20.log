@@ -1,0 +1,20 @@
+[2026-01-20 00:00:00] [SISTEMA] Reset diario: contador de trades a 0.
+[2026-01-20 06:00:00] [VENTA-STOP_LOSS] ETH/USDT: precio $3116.91 <= SL $3162.50. Vendiendo.
+[2026-01-20 06:00:00] [BALANCE] ETH/USDT: PnL -0.26  balance $-1.71
+[2026-01-20 07:00:00] [SENAL COMPRA] ETH/USDT | RSI=15.3 (umbral 40) | volatilidad 7d=4.07% | TP=3.25% | precio=$3123.37 | invirtiendo $5.00
+[2026-01-20 07:00:00] [COMPRA MAKER OK] ETH/USDT | 0.001601 unidades a $3123.37 ($5.00)
+[2026-01-20 07:00:00] [COMPRA OK] ETH/USDT | 0.001601 unidades ($5.00) | SL=$2996.36 TP=$3224.98 | Fee: $0.0050 (0.075% maker simulado) | balance $-1.71
+[2026-01-20 13:00:00] [VENTA-SMA200] ETH/USDT: precio $3078.99 < SMA200 $3255.55. Vendiendo (anticuchillo).
+[2026-01-20 13:00:00] [BALANCE] ETH/USDT: PnL -0.08  balance $-1.78
+[2026-01-20 14:00:00] [VENTA-STOP_LOSS] BTC/USDT: precio $90531.15 <= SL $90658.95. Vendiendo.
+[2026-01-20 14:00:00] [BALANCE] BTC/USDT: PnL -0.15  balance $-1.93
+[2026-01-20 15:00:00] [SENAL COMPRA] BTC/USDT | RSI=20.3 (umbral 30) | volatilidad 7d=2.83% | TP=2.26% | precio=$90684.95 | invirtiendo $5.00
+[2026-01-20 15:00:00] [COMPRA MAKER OK] BTC/USDT | 0.000055 unidades a $90684.95 ($5.00)
+[2026-01-20 15:00:00] [COMPRA OK] BTC/USDT | 0.000055 unidades ($5.00) | SL=$88120.85 TP=$92736.23 | Fee: $0.0050 (0.075% maker simulado) | balance $-1.93
+[2026-01-20 18:00:00] [VENTA-SMA200] BTC/USDT: precio $89501.00 < SMA200 $94250.88. Vendiendo (anticuchillo).
+[2026-01-20 18:00:00] [BALANCE] BTC/USDT: PnL -0.07  balance $-2.00
+[2026-01-20 19:00:00] [SENAL COMPRA] BTC/USDT | RSI=24.6 (umbral 30) | volatilidad 7d=2.67% | TP=2.13% | precio=$89725.76 | invirtiendo $5.00
+[2026-01-20 19:00:00] [COMPRA MAKER OK] BTC/USDT | 0.000056 unidades a $89725.76 ($5.00)
+[2026-01-20 19:00:00] [COMPRA OK] BTC/USDT | 0.000056 unidades ($5.00) | SL=$87332.68 TP=$91640.22 | Fee: $0.0050 (0.075% maker simulado) | balance $-2.00
+[2026-01-20 21:00:00] [VENTA-SMA200] BTC/USDT: precio $89476.01 < SMA200 $94235.33. Vendiendo (anticuchillo).
+[2026-01-20 21:00:00] [BALANCE] BTC/USDT: PnL -0.02  balance $-2.02

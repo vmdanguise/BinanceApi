@@ -1,0 +1,19 @@
+[2025-07-14 00:00:00] [SISTEMA] Reset diario: contador de trades a 0.
+[2025-07-14 18:00:00] [SENAL COMPRA] ETH/USDT | RSI=33.9 (umbral 40) | volatilidad 7d=4.91% | TP=3.92% | precio=$2989.50 | invirtiendo $5.00
+[2025-07-14 18:00:00] [COMPRA MAKER OK] ETH/USDT | 0.001673 unidades a $2989.50 ($5.00)
+[2025-07-14 18:00:00] [COMPRA OK] ETH/USDT | 0.001673 unidades ($5.00) | SL=$2842.83 TP=$3106.83 | Fee: $0.0050 (0.075% maker simulado) | balance $+0.10
+[2025-07-14 19:00:00] [TRAILING] ETH/USDT: SL elevado a $2985.33 (precio $3000.33).
+[2025-07-14 19:00:00] [VENTA-TIMEOUT_60MIN] ETH/USDT: 60min, ganancia 0.36% (min 0.35%) < TP 3.92%. Vendiendo.
+[2025-07-14 19:00:00] [BALANCE] ETH/USDT: PnL +0.01  balance $0.11
+[2025-07-14 19:00:00] [SENAL COMPRA] ETH/USDT | RSI=39.8 (umbral 40) | volatilidad 7d=5.18% | TP=4.15% | precio=$3000.33 | invirtiendo $5.00
+[2025-07-14 19:00:00] [COMPRA MAKER OK] ETH/USDT | 0.001666 unidades a $3000.33 ($5.00)
+[2025-07-14 19:00:00] [COMPRA OK] ETH/USDT | 0.001666 unidades ($5.00) | SL=$2850.31 TP=$3124.77 | Fee: $0.0050 (0.075% maker simulado) | balance $+0.11
+[2025-07-14 21:00:00] [TRAILING] ETH/USDT: SL elevado a $2995.94 (precio $3010.99).
+[2025-07-14 21:00:00] [VENTA-TIMEOUT_60MIN] ETH/USDT: 120min, ganancia 0.36% (min 0.35%) < TP 4.15%. Vendiendo.
+[2025-07-14 21:00:00] [BALANCE] ETH/USDT: PnL +0.01  balance $0.12
+[2025-07-14 21:00:00] [SENAL COMPRA] ETH/USDT | RSI=39.9 (umbral 40) | volatilidad 7d=5.13% | TP=4.10% | precio=$3010.99 | invirtiendo $5.00
+[2025-07-14 21:00:00] [COMPRA MAKER OK] ETH/USDT | 0.001661 unidades a $3010.99 ($5.00)
+[2025-07-14 21:00:00] [COMPRA OK] ETH/USDT | 0.001661 unidades ($5.00) | SL=$2860.44 TP=$3134.48 | Fee: $0.0050 (0.075% maker simulado) | balance $+0.12
+[2025-07-14 22:00:00] [SENAL COMPRA] BTC/USDT | RSI=26.2 (umbral 30) | volatilidad 7d=3.02% | TP=2.41% | precio=$120057.01 | invirtiendo $5.00
+[2025-07-14 22:00:00] [COMPRA MAKER OK] BTC/USDT | 0.000042 unidades a $120057.01 ($5.00)
+[2025-07-14 22:00:00] [COMPRA OK] BTC/USDT | 0.000042 unidades ($5.00) | SL=$116435.87 TP=$122953.92 | Fee: $0.0050 (0.075% maker simulado) | balance $+0.12

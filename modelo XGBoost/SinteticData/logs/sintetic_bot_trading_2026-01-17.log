@@ -1,0 +1,4 @@
+[2026-01-17 00:00:00] [SISTEMA] Reset diario: contador de trades a 0.
+[2026-01-17 15:00:00] [TRAILING] ETH/USDT: SL elevado a $3313.30 (precio $3329.95).
+[2026-01-17 21:00:00] [VENTA-STOP_LOSS] ETH/USDT: precio $3312.84 <= SL $3313.30. Vendiendo.
+[2026-01-17 21:00:00] [BALANCE] ETH/USDT: PnL -0.01  balance $-1.33

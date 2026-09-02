@@ -1,0 +1,20 @@
+[2025-12-15 00:00:00] [SISTEMA] Reset diario: contador de trades a 0.
+[2025-12-15 01:00:00] [TRAILING] ETH/USDT: SL elevado a $3093.00 (precio $3108.54).
+[2025-12-15 02:00:00] [TRAILING] ETH/USDT: SL elevado a $3104.67 (precio $3120.27).
+[2025-12-15 02:00:00] [VENTA-TIMEOUT_60MIN] ETH/USDT: 840min, ganancia 0.70% (min 0.35%) < TP 5.00%. Vendiendo.
+[2025-12-15 02:00:00] [BALANCE] ETH/USDT: PnL +0.03  balance $-1.60
+[2025-12-15 15:00:00] [SENAL COMPRA] ETH/USDT | RSI=30.2 (umbral 40) | volatilidad 7d=5.60% | TP=4.48% | precio=$3010.96 | invirtiendo $5.00
+[2025-12-15 15:00:00] [COMPRA MAKER OK] ETH/USDT | 0.001661 unidades a $3010.96 ($5.00)
+[2025-12-15 15:00:00] [COMPRA OK] ETH/USDT | 0.001661 unidades ($5.00) | SL=$2860.41 TP=$3145.94 | Fee: $0.0050 (0.075% maker simulado) | balance $-1.60
+[2025-12-15 16:00:00] [VENTA-STOP_LOSS] BTC/USDT: precio $86400.01 <= SL $86633.67. Vendiendo.
+[2025-12-15 16:00:00] [BALANCE] BTC/USDT: PnL -0.22  balance $-1.82
+[2025-12-15 16:00:00] [VENTA-SMA200] ETH/USDT: precio $2988.94 < SMA200 $3163.47. Vendiendo (anticuchillo).
+[2025-12-15 16:00:00] [BALANCE] ETH/USDT: PnL -0.04  balance $-1.86
+[2025-12-15 18:00:00] [SENAL COMPRA] BTC/USDT | RSI=14.7 (umbral 30) | volatilidad 7d=3.97% | TP=3.17% | precio=$86185.39 | invirtiendo $5.00
+[2025-12-15 18:00:00] [COMPRA MAKER OK] BTC/USDT | 0.000058 unidades a $86185.39 ($5.00)
+[2025-12-15 18:00:00] [COMPRA OK] BTC/USDT | 0.000058 unidades ($5.00) | SL=$82767.15 TP=$88919.98 | Fee: $0.0050 (0.075% maker simulado) | balance $-1.86
+[2025-12-15 20:00:00] [VENTA-SMA200] BTC/USDT: precio $85787.04 < SMA200 $90660.87. Vendiendo (anticuchillo).
+[2025-12-15 20:00:00] [BALANCE] BTC/USDT: PnL -0.03  balance $-1.89
+[2025-12-15 21:00:00] [SENAL COMPRA] BTC/USDT | RSI=18.7 (umbral 30) | volatilidad 7d=3.85% | TP=3.08% | precio=$86243.78 | invirtiendo $5.00
+[2025-12-15 21:00:00] [COMPRA MAKER OK] BTC/USDT | 0.000058 unidades a $86243.78 ($5.00)
+[2025-12-15 21:00:00] [COMPRA OK] BTC/USDT | 0.000058 unidades ($5.00) | SL=$82921.31 TP=$88901.76 | Fee: $0.0050 (0.075% maker simulado) | balance $-1.89

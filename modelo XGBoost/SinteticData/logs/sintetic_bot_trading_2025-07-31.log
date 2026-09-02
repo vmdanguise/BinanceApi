@@ -1,0 +1,19 @@
+[2025-07-31 00:00:00] [SISTEMA] Reset diario: contador de trades a 0.
+[2025-07-31 14:00:00] [SENAL COMPRA] ETH/USDT | RSI=28.1 (umbral 40) | volatilidad 7d=4.49% | TP=3.59% | precio=$3768.97 | invirtiendo $5.00
+[2025-07-31 14:00:00] [COMPRA MAKER OK] ETH/USDT | 0.001327 unidades a $3768.97 ($5.00)
+[2025-07-31 14:00:00] [COMPRA OK] ETH/USDT | 0.001327 unidades ($5.00) | SL=$3599.92 TP=$3904.21 | Fee: $0.0050 (0.075% maker simulado) | balance $+0.17
+[2025-07-31 15:00:00] [TRAILING] ETH/USDT: SL elevado a $3769.44 (precio $3788.38).
+[2025-07-31 15:00:00] [VENTA-TIMEOUT_60MIN] ETH/USDT: 60min, ganancia 0.51% (min 0.35%) < TP 3.59%. Vendiendo.
+[2025-07-31 15:00:00] [BALANCE] ETH/USDT: PnL +0.02  balance $0.19
+[2025-07-31 15:00:00] [SENAL COMPRA] ETH/USDT | RSI=36.5 (umbral 40) | volatilidad 7d=4.36% | TP=3.49% | precio=$3788.38 | invirtiendo $5.00
+[2025-07-31 15:00:00] [COMPRA MAKER OK] ETH/USDT | 0.001320 unidades a $3788.38 ($5.00)
+[2025-07-31 15:00:00] [COMPRA OK] ETH/USDT | 0.001320 unidades ($5.00) | SL=$3623.12 TP=$3920.59 | Fee: $0.0050 (0.075% maker simulado) | balance $+0.19
+[2025-07-31 16:00:00] [TRAILING] ETH/USDT: SL elevado a $3785.15 (precio $3804.17).
+[2025-07-31 16:00:00] [VENTA-TIMEOUT_60MIN] ETH/USDT: 60min, ganancia 0.42% (min 0.35%) < TP 3.49%. Vendiendo.
+[2025-07-31 16:00:00] [BALANCE] ETH/USDT: PnL +0.02  balance $0.21
+[2025-07-31 16:00:00] [SENAL COMPRA] ETH/USDT | RSI=33.2 (umbral 40) | volatilidad 7d=4.33% | TP=3.47% | precio=$3804.17 | invirtiendo $5.00
+[2025-07-31 16:00:00] [COMPRA MAKER OK] ETH/USDT | 0.001314 unidades a $3804.17 ($5.00)
+[2025-07-31 16:00:00] [COMPRA OK] ETH/USDT | 0.001314 unidades ($5.00) | SL=$3639.27 TP=$3936.09 | Fee: $0.0050 (0.075% maker simulado) | balance $+0.21
+[2025-07-31 20:00:00] [SENAL COMPRA] BTC/USDT | RSI=22.5 (umbral 30) | volatilidad 7d=2.12% | TP=1.70% | precio=$116514.00 | invirtiendo $5.00
+[2025-07-31 20:00:00] [COMPRA MAKER OK] BTC/USDT | 0.000043 unidades a $116514.00 ($5.00)
+[2025-07-31 20:00:00] [COMPRA OK] BTC/USDT | 0.000043 unidades ($5.00) | SL=$114039.91 TP=$118493.27 | Fee: $0.0050 (0.075% maker simulado) | balance $+0.21

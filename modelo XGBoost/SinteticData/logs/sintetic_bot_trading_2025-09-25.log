@@ -1,0 +1,9 @@
+[2025-09-25 00:00:00] [SISTEMA] Reset diario: contador de trades a 0.
+[2025-09-25 04:00:00] [SENAL COMPRA] BTC/USDT | RSI=21.4 (umbral 30) | volatilidad 7d=1.68% | TP=1.35% | precio=$111735.66 | invirtiendo $5.00
+[2025-09-25 04:00:00] [COMPRA MAKER OK] BTC/USDT | 0.000045 unidades a $111735.66 ($5.00)
+[2025-09-25 04:00:00] [COMPRA OK] BTC/USDT | 0.000045 unidades ($5.00) | SL=$109855.67 TP=$113239.65 | Fee: $0.0050 (0.075% maker simulado) | balance $-0.77
+[2025-09-25 17:00:00] [VENTA-STOP_LOSS] BTC/USDT: precio $108833.63 <= SL $109855.67. Vendiendo.
+[2025-09-25 17:00:00] [BALANCE] BTC/USDT: PnL -0.13  balance $-0.90
+[2025-09-25 23:00:00] [SENAL COMPRA] BTC/USDT | RSI=29.4 (umbral 30) | volatilidad 7d=2.17% | TP=1.73% | precio=$108994.49 | invirtiendo $5.00
+[2025-09-25 23:00:00] [COMPRA MAKER OK] BTC/USDT | 0.000046 unidades a $108994.49 ($5.00)
+[2025-09-25 23:00:00] [COMPRA OK] BTC/USDT | 0.000046 unidades ($5.00) | SL=$106633.74 TP=$110883.09 | Fee: $0.0050 (0.075% maker simulado) | balance $-0.90

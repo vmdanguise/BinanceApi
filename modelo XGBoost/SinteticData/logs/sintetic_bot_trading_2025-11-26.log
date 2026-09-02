@@ -1,0 +1,22 @@
+[2025-11-26 00:00:00] [SISTEMA] Reset diario: contador de trades a 0.
+[2025-11-26 01:00:00] [TRAILING] BTC/USDT: SL elevado a $87482.33 (precio $87921.94).
+[2025-11-26 01:00:00] [VENTA-TIMEOUT_60MIN] BTC/USDT: 900min, ganancia 0.58% (min 0.35%) < TP 4.61%. Vendiendo.
+[2025-11-26 01:00:00] [BALANCE] BTC/USDT: PnL +0.02  balance $-1.30
+[2025-11-26 12:00:00] [SENAL COMPRA] ETH/USDT | RSI=27.5 (umbral 40) | volatilidad 7d=7.22% | TP=5.00% | precio=$2901.60 | invirtiendo $5.00
+[2025-11-26 12:00:00] [COMPRA MAKER OK] ETH/USDT | 0.001723 unidades a $2901.60 ($5.00)
+[2025-11-26 12:00:00] [COMPRA OK] ETH/USDT | 0.001723 unidades ($5.00) | SL=$2756.52 TP=$3046.68 | Fee: $0.0050 (0.075% maker simulado) | balance $-1.30
+[2025-11-26 13:00:00] [TRAILING] ETH/USDT: SL elevado a $2919.58 (precio $2934.25).
+[2025-11-26 13:00:00] [VENTA-TIMEOUT_60MIN] ETH/USDT: 60min, ganancia 1.13% (min 0.35%) < TP 5.00%. Vendiendo.
+[2025-11-26 13:00:00] [BALANCE] ETH/USDT: PnL +0.05  balance $-1.25
+[2025-11-26 14:00:00] [SENAL COMPRA] ETH/USDT | RSI=38.7 (umbral 40) | volatilidad 7d=6.78% | TP=5.00% | precio=$2910.80 | invirtiendo $5.00
+[2025-11-26 14:00:00] [COMPRA MAKER OK] ETH/USDT | 0.001718 unidades a $2910.80 ($5.00)
+[2025-11-26 14:00:00] [COMPRA OK] ETH/USDT | 0.001718 unidades ($5.00) | SL=$2765.26 TP=$3056.34 | Fee: $0.0050 (0.075% maker simulado) | balance $-1.25
+[2025-11-26 15:00:00] [TRAILING] ETH/USDT: SL elevado a $2912.77 (precio $2927.41).
+[2025-11-26 15:00:00] [VENTA-TIMEOUT_60MIN] ETH/USDT: 60min, ganancia 0.57% (min 0.35%) < TP 5.00%. Vendiendo.
+[2025-11-26 15:00:00] [BALANCE] ETH/USDT: PnL +0.02  balance $-1.22
+[2025-11-26 15:00:00] [SENAL COMPRA] ETH/USDT | RSI=38.9 (umbral 40) | volatilidad 7d=6.05% | TP=4.84% | precio=$2927.41 | invirtiendo $5.00
+[2025-11-26 15:00:00] [COMPRA MAKER OK] ETH/USDT | 0.001708 unidades a $2927.41 ($5.00)
+[2025-11-26 15:00:00] [COMPRA OK] ETH/USDT | 0.001708 unidades ($5.00) | SL=$2781.04 TP=$3069.18 | Fee: $0.0050 (0.075% maker simulado) | balance $-1.22
+[2025-11-26 16:00:00] [TRAILING] ETH/USDT: SL elevado a $2931.52 (precio $2946.25).
+[2025-11-26 16:00:00] [VENTA-TIMEOUT_60MIN] ETH/USDT: 60min, ganancia 0.64% (min 0.35%) < TP 4.84%. Vendiendo.
+[2025-11-26 16:00:00] [BALANCE] ETH/USDT: PnL +0.03  balance $-1.20

@@ -1,0 +1,7 @@
+[2026-05-22 00:00:00] [SISTEMA] Reset diario: contador de trades a 0.
+[2026-05-22 07:00:00] [SENAL COMPRA] ETH/USDT | RSI=38.4 (umbral 40) | volatilidad 7d=3.00% | TP=2.40% | precio=$2128.70 | invirtiendo $5.00
+[2026-05-22 07:00:00] [COMPRA MAKER OK] ETH/USDT | 0.002349 unidades a $2128.70 ($5.00)
+[2026-05-22 07:00:00] [COMPRA OK] ETH/USDT | 0.002349 unidades ($5.00) | SL=$2064.92 TP=$2179.73 | Fee: $0.0050 (0.075% maker simulado) | balance $-4.53
+[2026-05-22 15:00:00] [SENAL COMPRA] BTC/USDT | RSI=26.0 (umbral 30) | volatilidad 7d=2.04% | TP=1.63% | precio=$76790.59 | invirtiendo $5.00
+[2026-05-22 15:00:00] [COMPRA MAKER OK] BTC/USDT | 0.000065 unidades a $76790.59 ($5.00)
+[2026-05-22 15:00:00] [COMPRA OK] BTC/USDT | 0.000065 unidades ($5.00) | SL=$75222.67 TP=$78044.92 | Fee: $0.0050 (0.075% maker simulado) | balance $-4.53

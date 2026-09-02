@@ -1,0 +1,17 @@
+=== Generación de Dataset para XGBoost ===
+
+[1/4] Extrayendo trades de logs...
+  Procesando 369 archivos log...
+  ==> 8 trades completos extraídos.
+
+[2/4] Feature engineering...
+  ==> 8 filas, 31 columnas.
+
+[3/4] Limpiando y balanceando por mes...
+  Trades antes de limpiar: 8
+  Tras eliminar duplicados: 8
+    2026-06: 8 trades
+  Tras submuestreo por mes: 8
+  Distribución: 7 POS (87.5%), 1 NEG (12.5%)
+
+[ERROR] Dataset muy pequeño después de limpiar.

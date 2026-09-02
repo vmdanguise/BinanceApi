@@ -1,0 +1,10 @@
+[2026-03-20 00:00:00] [SISTEMA] Reset diario: contador de trades a 0.
+[2026-03-20 08:00:00] [TRAILING] ETH/USDT: SL elevado a $2153.38 (precio $2164.20).
+[2026-03-20 08:00:00] [VENTA-TIMEOUT_60MIN] ETH/USDT: 720min, ganancia 0.83% (min 0.35%) < TP 4.92%. Vendiendo.
+[2026-03-20 08:00:00] [BALANCE] ETH/USDT: PnL +0.04  balance $-3.42
+[2026-03-20 18:00:00] [SENAL COMPRA] ETH/USDT | RSI=39.0 (umbral 40) | volatilidad 7d=5.52% | TP=4.41% | precio=$2123.29 | invirtiendo $5.00
+[2026-03-20 18:00:00] [COMPRA MAKER OK] ETH/USDT | 0.002355 unidades a $2123.29 ($5.00)
+[2026-03-20 18:00:00] [COMPRA OK] ETH/USDT | 0.002355 unidades ($5.00) | SL=$2017.13 TP=$2216.99 | Fee: $0.0050 (0.075% maker simulado) | balance $-3.42
+[2026-03-20 19:00:00] [TRAILING] ETH/USDT: SL elevado a $2122.25 (precio $2132.91).
+[2026-03-20 19:00:00] [VENTA-TIMEOUT_60MIN] ETH/USDT: 60min, ganancia 0.45% (min 0.35%) < TP 4.41%. Vendiendo.
+[2026-03-20 19:00:00] [BALANCE] ETH/USDT: PnL +0.02  balance $-3.40

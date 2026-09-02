@@ -1,0 +1,20 @@
+[2026-06-09 00:00:00] [SISTEMA] Reset diario: contador de trades a 0.
+[2026-06-09 11:00:00] [SENAL COMPRA] ETH/USDT | RSI=32.9 (umbral 40) | volatilidad 7d=8.30% | TP=5.00% | precio=$1671.96 | invirtiendo $5.00
+[2026-06-09 11:00:00] [COMPRA MAKER OK] ETH/USDT | 0.002991 unidades a $1671.96 ($5.00)
+[2026-06-09 11:00:00] [COMPRA OK] ETH/USDT | 0.002991 unidades ($5.00) | SL=$1588.36 TP=$1755.56 | Fee: $0.0050 (0.075% maker simulado) | balance $-5.30
+[2026-06-09 14:00:00] [VENTA-SMA200] ETH/USDT: precio $1645.90 < SMA200 $1745.88. Vendiendo (anticuchillo).
+[2026-06-09 14:00:00] [BALANCE] ETH/USDT: PnL -0.08  balance $-5.38
+[2026-06-09 16:00:00] [SENAL COMPRA] BTC/USDT | RSI=26.0 (umbral 30) | volatilidad 7d=5.44% | TP=4.36% | precio=$61390.51 | invirtiendo $5.00
+[2026-06-09 16:00:00] [COMPRA MAKER OK] BTC/USDT | 0.000081 unidades a $61390.51 ($5.00)
+[2026-06-09 16:00:00] [COMPRA OK] BTC/USDT | 0.000081 unidades ($5.00) | SL=$58320.98 TP=$64064.11 | Fee: $0.0050 (0.075% maker simulado) | balance $-5.38
+[2026-06-09 17:00:00] [TRAILING] BTC/USDT: SL elevado a $61383.55 (precio $61692.01).
+[2026-06-09 17:00:00] [VENTA-TIMEOUT_60MIN] BTC/USDT: 60min, ganancia 0.49% (min 0.35%) < TP 4.36%. Vendiendo.
+[2026-06-09 17:00:00] [BALANCE] BTC/USDT: PnL +0.02  balance $-5.36
+[2026-06-09 18:00:00] [SENAL COMPRA] ETH/USDT | RSI=32.3 (umbral 40) | volatilidad 7d=8.13% | TP=5.00% | precio=$1652.28 | invirtiendo $5.00
+[2026-06-09 18:00:00] [COMPRA MAKER OK] ETH/USDT | 0.003026 unidades a $1652.28 ($5.00)
+[2026-06-09 18:00:00] [COMPRA OK] ETH/USDT | 0.003026 unidades ($5.00) | SL=$1569.67 TP=$1734.89 | Fee: $0.0050 (0.075% maker simulado) | balance $-5.36
+[2026-06-09 19:00:00] [TRAILING] ETH/USDT: SL elevado a $1649.04 (precio $1657.33).
+[2026-06-09 20:00:00] [TRAILING] ETH/USDT: SL elevado a $1652.29 (precio $1660.59).
+[2026-06-09 20:00:00] [MOMENTO] ETH/USDT: Timeout 120min con ganancia 0.50% pero momento alcista. Difiriendo.
+[2026-06-09 21:00:00] [VENTA-STOP_LOSS] ETH/USDT: precio $1650.33 <= SL $1652.29. Vendiendo.
+[2026-06-09 21:00:00] [BALANCE] ETH/USDT: PnL -0.01  balance $-5.37

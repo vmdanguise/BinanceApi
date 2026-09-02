@@ -1,0 +1,22 @@
+[2025-08-01 00:00:00] [SISTEMA] Reset diario: contador de trades a 0.
+[2025-08-01 08:00:00] [VENTA-STOP_LOSS] ETH/USDT: precio $3609.43 <= SL $3639.27. Vendiendo.
+[2025-08-01 08:00:00] [BALANCE] ETH/USDT: PnL -0.26  balance $-0.05
+[2025-08-01 09:00:00] [SENAL COMPRA] ETH/USDT | RSI=21.0 (umbral 40) | volatilidad 7d=4.92% | TP=3.93% | precio=$3618.31 | invirtiendo $5.00
+[2025-08-01 09:00:00] [COMPRA MAKER OK] ETH/USDT | 0.001382 unidades a $3618.31 ($5.00)
+[2025-08-01 09:00:00] [COMPRA OK] ETH/USDT | 0.001382 unidades ($5.00) | SL=$3440.44 TP=$3760.61 | Fee: $0.0050 (0.075% maker simulado) | balance $-0.05
+[2025-08-01 11:00:00] [TRAILING] ETH/USDT: SL elevado a $3624.51 (precio $3642.72).
+[2025-08-01 11:00:00] [VENTA-TIMEOUT_60MIN] ETH/USDT: 120min, ganancia 0.67% (min 0.35%) < TP 3.93%. Vendiendo.
+[2025-08-01 11:00:00] [BALANCE] ETH/USDT: PnL +0.03  balance $-0.02
+[2025-08-01 11:00:00] [SENAL COMPRA] ETH/USDT | RSI=30.8 (umbral 40) | volatilidad 7d=4.83% | TP=3.86% | precio=$3642.72 | invirtiendo $5.00
+[2025-08-01 11:00:00] [COMPRA MAKER OK] ETH/USDT | 0.001373 unidades a $3642.72 ($5.00)
+[2025-08-01 11:00:00] [COMPRA OK] ETH/USDT | 0.001373 unidades ($5.00) | SL=$3466.84 TP=$3783.43 | Fee: $0.0050 (0.075% maker simulado) | balance $-0.02
+[2025-08-01 12:00:00] [TRAILING] ETH/USDT: SL elevado a $3644.96 (precio $3663.28).
+[2025-08-01 12:00:00] [VENTA-TIMEOUT_60MIN] ETH/USDT: 60min, ganancia 0.56% (min 0.35%) < TP 3.86%. Vendiendo.
+[2025-08-01 12:00:00] [BALANCE] ETH/USDT: PnL +0.02  balance $0.00
+[2025-08-01 12:00:00] [SENAL COMPRA] ETH/USDT | RSI=39.9 (umbral 40) | volatilidad 7d=4.78% | TP=3.82% | precio=$3663.28 | invirtiendo $5.00
+[2025-08-01 12:00:00] [COMPRA MAKER OK] ETH/USDT | 0.001365 unidades a $3663.28 ($5.00)
+[2025-08-01 12:00:00] [COMPRA OK] ETH/USDT | 0.001365 unidades ($5.00) | SL=$3488.35 TP=$3803.22 | Fee: $0.0050 (0.075% maker simulado) | balance $+0.00
+[2025-08-01 17:00:00] [VENTA-SMA200] ETH/USDT: precio $3572.26 < SMA200 $3762.59. Vendiendo (anticuchillo).
+[2025-08-01 17:00:00] [BALANCE] ETH/USDT: PnL -0.13  balance $-0.13
+[2025-08-01 18:00:00] [VENTA-STOP_LOSS] BTC/USDT: precio $113836.93 <= SL $114039.91. Vendiendo.
+[2025-08-01 18:00:00] [BALANCE] BTC/USDT: PnL -0.12  balance $-0.25

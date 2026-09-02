@@ -1,0 +1,11 @@
+[2025-12-18 00:00:00] [SISTEMA] Reset diario: contador de trades a 0.
+[2025-12-18 04:00:00] [SENAL COMPRA] BTC/USDT | RSI=24.2 (umbral 30) | volatilidad 7d=3.84% | TP=3.07% | precio=$86765.43 | invirtiendo $5.00
+[2025-12-18 04:00:00] [COMPRA MAKER OK] BTC/USDT | 0.000058 unidades a $86765.43 ($5.00)
+[2025-12-18 04:00:00] [COMPRA OK] BTC/USDT | 0.000058 unidades ($5.00) | SL=$83437.97 TP=$89427.40 | Fee: $0.0050 (0.075% maker simulado) | balance $-1.87
+[2025-12-18 09:00:00] [TRAILING] BTC/USDT: SL elevado a $86844.55 (precio $87280.95).
+[2025-12-18 09:00:00] [MOMENTO] BTC/USDT: Timeout 300min con ganancia 0.59% pero momento alcista. Difiriendo.
+[2025-12-18 10:00:00] [TRAILING] BTC/USDT: SL elevado a $86905.24 (precio $87341.95).
+[2025-12-18 10:00:00] [MOMENTO] BTC/USDT: Timeout 360min con ganancia 0.66% pero momento alcista. Difiriendo.
+[2025-12-18 11:00:00] [MOMENTO] BTC/USDT: Timeout 420min con ganancia 0.62% pero momento alcista. Difiriendo.
+[2025-12-18 12:00:00] [VENTA-TIMEOUT_60MIN] BTC/USDT: 480min, ganancia 0.57% (min 0.35%) < TP 3.07%. Vendiendo.
+[2025-12-18 12:00:00] [BALANCE] BTC/USDT: PnL +0.02  balance $-1.85

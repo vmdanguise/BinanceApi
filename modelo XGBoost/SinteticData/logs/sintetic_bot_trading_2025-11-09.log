@@ -1,0 +1,6 @@
+[2025-11-09 00:00:00] [SISTEMA] Reset diario: contador de trades a 0.
+[2025-11-09 00:00:00] [VENTA-STOP_LOSS] ETH/USDT: precio $3384.77 <= SL $3392.45. Vendiendo.
+[2025-11-09 00:00:00] [BALANCE] ETH/USDT: PnL -0.02  balance $-1.46
+[2025-11-09 13:00:00] [TRAILING] BTC/USDT: SL elevado a $102396.83 (precio $102911.39).
+[2025-11-09 13:00:00] [VENTA-TIMEOUT_60MIN] BTC/USDT: 1620min, ganancia 0.42% (min 0.35%) < TP 3.12%. Vendiendo.
+[2025-11-09 13:00:00] [BALANCE] BTC/USDT: PnL +0.02  balance $-1.44

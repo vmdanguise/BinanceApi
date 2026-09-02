@@ -1,0 +1,8 @@
+[2025-10-10 00:00:00] [SISTEMA] Reset diario: contador de trades a 0.
+[2025-10-10 15:00:00] [VENTA-STOP_LOSS] ETH/USDT: precio $4103.11 <= SL $4230.41. Vendiendo.
+[2025-10-10 15:00:00] [BALANCE] ETH/USDT: PnL -0.37  balance $-0.81
+[2025-10-10 15:00:00] [SENAL COMPRA] BTC/USDT | RSI=27.8 (umbral 30) | volatilidad 7d=2.97% | TP=2.38% | precio=$119018.98 | invirtiendo $5.00
+[2025-10-10 15:00:00] [COMPRA MAKER OK] BTC/USDT | 0.000042 unidades a $119018.98 ($5.00)
+[2025-10-10 15:00:00] [COMPRA OK] BTC/USDT | 0.000042 unidades ($5.00) | SL=$115485.44 TP=$121845.81 | Fee: $0.0050 (0.075% maker simulado) | balance $-0.81
+[2025-10-10 20:00:00] [VENTA-STOP_LOSS] BTC/USDT: precio $114266.82 <= SL $115485.44. Vendiendo.
+[2025-10-10 20:00:00] [BALANCE] BTC/USDT: PnL -0.20  balance $-1.01

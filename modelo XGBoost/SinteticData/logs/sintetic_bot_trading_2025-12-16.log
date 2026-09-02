@@ -1,0 +1,3 @@
+[2025-12-16 00:00:00] [SISTEMA] Reset diario: contador de trades a 0.
+[2025-12-16 00:00:00] [VENTA-SMA200] BTC/USDT: precio $85865.48 < SMA200 $90601.27. Vendiendo (anticuchillo).
+[2025-12-16 00:00:00] [BALANCE] BTC/USDT: PnL -0.03  balance $-1.92

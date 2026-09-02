@@ -1,0 +1,4 @@
+[2026-04-30 00:00:00] [SISTEMA] Reset diario: contador de trades a 0.
+[2026-04-30 00:00:00] [TRAILING] BTC/USDT: SL elevado a $75867.50 (precio $76248.74).
+[2026-04-30 00:00:00] [VENTA-TIMEOUT_60MIN] BTC/USDT: 60min, ganancia 0.62% (min 0.35%) < TP 1.98%. Vendiendo.
+[2026-04-30 00:00:00] [BALANCE] BTC/USDT: PnL +0.03  balance $-4.25

@@ -1,0 +1,4 @@
+[2026-06-01 00:00:00] [SISTEMA] Reset diario: contador de trades a 0.
+[2026-06-01 11:00:00] [SENAL COMPRA] BTC/USDT | RSI=27.2 (umbral 30) | volatilidad 7d=2.64% | TP=2.11% | precio=$72479.99 | invirtiendo $5.00
+[2026-06-01 11:00:00] [COMPRA MAKER OK] BTC/USDT | 0.000069 unidades a $72479.99 ($5.00)
+[2026-06-01 11:00:00] [COMPRA OK] BTC/USDT | 0.000069 unidades ($5.00) | SL=$70565.29 TP=$74011.75 | Fee: $0.0050 (0.075% maker simulado) | balance $-4.99

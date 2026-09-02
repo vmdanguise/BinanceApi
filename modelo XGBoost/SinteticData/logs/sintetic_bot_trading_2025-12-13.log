@@ -1,0 +1,4 @@
+[2025-12-13 00:00:00] [SISTEMA] Reset diario: contador de trades a 0.
+[2025-12-13 08:00:00] [TRAILING] ETH/USDT: SL elevado a $3100.68 (precio $3116.26).
+[2025-12-13 08:00:00] [VENTA-TIMEOUT_60MIN] ETH/USDT: 600min, ganancia 0.74% (min 0.35%) < TP 5.00%. Vendiendo.
+[2025-12-13 08:00:00] [BALANCE] ETH/USDT: PnL +0.03  balance $-1.64

@@ -1,0 +1,23 @@
+# Entorno - credenciales (nunca versionar)
+conf/*.env
+*.env
+conf/prod.env
+conf/desa.env
+
+# Estado runtime (nunca versionar)
+estado_bot*
+estado_bot_prod*
+metricas.json
+bot.pid
+nul
+
+# Logs
+logs/*
+!logs/.gitkeep
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/

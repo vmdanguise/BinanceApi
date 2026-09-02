@@ -1,0 +1,9 @@
+[2025-08-18 00:00:00] [SISTEMA] Reset diario: contador de trades a 0.
+[2025-08-18 03:00:00] [VENTA-STOP_LOSS] BTC/USDT: precio $115319.00 <= SL $115378.25. Vendiendo.
+[2025-08-18 03:00:00] [BALANCE] BTC/USDT: PnL -0.15  balance $0.25
+[2025-08-18 04:00:00] [SENAL COMPRA] BTC/USDT | RSI=17.6 (umbral 30) | volatilidad 7d=3.03% | TP=2.43% | precio=$115469.51 | invirtiendo $5.00
+[2025-08-18 04:00:00] [COMPRA MAKER OK] BTC/USDT | 0.000043 unidades a $115469.51 ($5.00)
+[2025-08-18 04:00:00] [COMPRA OK] BTC/USDT | 0.000043 unidades ($5.00) | SL=$111967.89 TP=$118270.80 | Fee: $0.0050 (0.075% maker simulado) | balance $+0.25
+[2025-08-18 15:00:00] [TRAILING] BTC/USDT: SL elevado a $115564.61 (precio $116145.34).
+[2025-08-18 15:00:00] [VENTA-TIMEOUT_60MIN] BTC/USDT: 660min, ganancia 0.59% (min 0.35%) < TP 2.43%. Vendiendo.
+[2025-08-18 15:00:00] [BALANCE] BTC/USDT: PnL +0.02  balance $0.27

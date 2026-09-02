@@ -1,0 +1,7 @@
+[2026-04-25 00:00:00] [SISTEMA] Reset diario: contador de trades a 0.
+[2026-04-25 01:00:00] [SENAL COMPRA] BTC/USDT | RSI=25.0 (umbral 30) | volatilidad 7d=2.91% | TP=2.33% | precio=$77541.63 | invirtiendo $5.00
+[2026-04-25 01:00:00] [COMPRA MAKER OK] BTC/USDT | 0.000064 unidades a $77541.63 ($5.00)
+[2026-04-25 01:00:00] [COMPRA OK] BTC/USDT | 0.000064 unidades ($5.00) | SL=$75287.34 TP=$79345.07 | Fee: $0.0050 (0.075% maker simulado) | balance $-4.19
+[2026-04-25 10:00:00] [TRAILING] BTC/USDT: SL elevado a $77398.83 (precio $77787.77).
+[2026-04-25 15:00:00] [VENTA-STOP_LOSS] BTC/USDT: precio $77330.26 <= SL $77398.83. Vendiendo.
+[2026-04-25 15:00:00] [BALANCE] BTC/USDT: PnL -0.02  balance $-4.21

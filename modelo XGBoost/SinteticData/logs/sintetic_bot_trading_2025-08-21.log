@@ -1,0 +1,19 @@
+[2025-08-21 00:00:00] [SISTEMA] Reset diario: contador de trades a 0.
+[2025-08-21 09:00:00] [SENAL COMPRA] ETH/USDT | RSI=33.2 (umbral 40) | volatilidad 7d=6.40% | TP=5.00% | precio=$4277.00 | invirtiendo $5.00
+[2025-08-21 09:00:00] [COMPRA MAKER OK] ETH/USDT | 0.001169 unidades a $4277.00 ($5.00)
+[2025-08-21 09:00:00] [COMPRA OK] ETH/USDT | 0.001169 unidades ($5.00) | SL=$4063.15 TP=$4490.85 | Fee: $0.0050 (0.075% maker simulado) | balance $-0.10
+[2025-08-21 10:00:00] [TRAILING] ETH/USDT: SL elevado a $4270.06 (precio $4291.52).
+[2025-08-21 12:00:00] [VENTA-STOP_LOSS] ETH/USDT: precio $4249.57 <= SL $4270.06. Vendiendo.
+[2025-08-21 12:00:00] [BALANCE] ETH/USDT: PnL -0.04  balance $-0.14
+[2025-08-21 12:00:00] [SENAL COMPRA] BTC/USDT | RSI=24.9 (umbral 30) | volatilidad 7d=2.21% | TP=1.77% | precio=$113095.29 | invirtiendo $5.00
+[2025-08-21 12:00:00] [COMPRA MAKER OK] BTC/USDT | 0.000044 unidades a $113095.29 ($5.00)
+[2025-08-21 12:00:00] [COMPRA OK] BTC/USDT | 0.000044 unidades ($5.00) | SL=$110596.20 TP=$115094.56 | Fee: $0.0050 (0.075% maker simulado) | balance $-0.14
+[2025-08-21 13:00:00] [TRAILING] BTC/USDT: SL elevado a $112919.55 (precio $113486.98).
+[2025-08-21 13:00:00] [SENAL COMPRA] ETH/USDT | RSI=31.4 (umbral 40) | volatilidad 7d=5.73% | TP=4.59% | precio=$4261.79 | invirtiendo $5.00
+[2025-08-21 13:00:00] [COMPRA MAKER OK] ETH/USDT | 0.001173 unidades a $4261.79 ($5.00)
+[2025-08-21 13:00:00] [COMPRA OK] ETH/USDT | 0.001173 unidades ($5.00) | SL=$4048.70 TP=$4457.25 | Fee: $0.0050 (0.075% maker simulado) | balance $-0.14
+[2025-08-21 15:00:00] [VENTA-STOP_LOSS] BTC/USDT: precio $112792.08 <= SL $112919.55. Vendiendo.
+[2025-08-21 15:00:00] [BALANCE] BTC/USDT: PnL -0.02  balance $-0.16
+[2025-08-21 16:00:00] [SENAL COMPRA] BTC/USDT | RSI=22.4 (umbral 30) | volatilidad 7d=2.03% | TP=1.63% | precio=$112379.58 | invirtiendo $5.00
+[2025-08-21 16:00:00] [COMPRA MAKER OK] BTC/USDT | 0.000044 unidades a $112379.58 ($5.00)
+[2025-08-21 16:00:00] [COMPRA OK] BTC/USDT | 0.000044 unidades ($5.00) | SL=$110095.13 TP=$114207.14 | Fee: $0.0050 (0.075% maker simulado) | balance $-0.16

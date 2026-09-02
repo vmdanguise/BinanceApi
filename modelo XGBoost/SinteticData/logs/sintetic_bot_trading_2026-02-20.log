@@ -1,0 +1,4 @@
+[2026-02-20 00:00:00] [SISTEMA] Reset diario: contador de trades a 0.
+[2026-02-20 00:00:00] [TRAILING] ETH/USDT: SL elevado a $1947.77 (precio $1957.56).
+[2026-02-20 00:00:00] [VENTA-TIMEOUT_60MIN] ETH/USDT: 240min, ganancia 0.37% (min 0.35%) < TP 4.46%. Vendiendo.
+[2026-02-20 00:00:00] [BALANCE] ETH/USDT: PnL +0.01  balance $-2.54

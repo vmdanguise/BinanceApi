@@ -1,0 +1,19 @@
+[2025-08-15 00:00:00] [SISTEMA] Reset diario: contador de trades a 0.
+[2025-08-15 00:00:00] [TRAILING] ETH/USDT: SL elevado a $4540.17 (precio $4562.98).
+[2025-08-15 00:00:00] [VENTA-TIMEOUT_60MIN] ETH/USDT: 480min, ganancia 0.36% (min 0.35%) < TP 4.84%. Vendiendo.
+[2025-08-15 00:00:00] [BALANCE] ETH/USDT: PnL +0.01  balance $0.30
+[2025-08-15 00:00:00] [SENAL COMPRA] ETH/USDT | RSI=36.8 (umbral 40) | volatilidad 7d=6.17% | TP=4.94% | precio=$4562.98 | invirtiendo $5.00
+[2025-08-15 00:00:00] [COMPRA MAKER OK] ETH/USDT | 0.001096 unidades a $4562.98 ($5.00)
+[2025-08-15 00:00:00] [COMPRA OK] ETH/USDT | 0.001096 unidades ($5.00) | SL=$4334.83 TP=$4788.21 | Fee: $0.0050 (0.075% maker simulado) | balance $+0.30
+[2025-08-15 01:00:00] [TRAILING] ETH/USDT: SL elevado a $4581.00 (precio $4604.02).
+[2025-08-15 01:00:00] [MOMENTO] ETH/USDT: Timeout 60min con ganancia 0.90% pero momento alcista. Difiriendo.
+[2025-08-15 02:00:00] [TRAILING] ETH/USDT: SL elevado a $4598.61 (precio $4621.72).
+[2025-08-15 02:00:00] [MOMENTO] ETH/USDT: Timeout 120min con ganancia 1.29% pero momento alcista. Difiriendo.
+[2025-08-15 03:00:00] [TRAILING] ETH/USDT: SL elevado a $4611.29 (precio $4634.46).
+[2025-08-15 03:00:00] [MOMENTO] ETH/USDT: Timeout 180min con ganancia 1.57% pero momento alcista. Difiriendo.
+[2025-08-15 04:00:00] [MOMENTO] ETH/USDT: Timeout 240min con ganancia 1.36% pero momento alcista. Difiriendo.
+[2025-08-15 05:00:00] [VENTA-TIMEOUT_60MIN] ETH/USDT: 300min, ganancia 1.22% (min 0.35%) < TP 4.94%. Vendiendo.
+[2025-08-15 05:00:00] [BALANCE] ETH/USDT: PnL +0.06  balance $0.35
+[2025-08-15 14:00:00] [SENAL COMPRA] ETH/USDT | RSI=38.2 (umbral 40) | volatilidad 7d=6.12% | TP=4.90% | precio=$4493.22 | invirtiendo $5.00
+[2025-08-15 14:00:00] [COMPRA MAKER OK] ETH/USDT | 0.001113 unidades a $4493.22 ($5.00)
+[2025-08-15 14:00:00] [COMPRA OK] ETH/USDT | 0.001113 unidades ($5.00) | SL=$4268.56 TP=$4713.19 | Fee: $0.0050 (0.075% maker simulado) | balance $+0.35
